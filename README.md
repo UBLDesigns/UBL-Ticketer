@@ -18,6 +18,7 @@ Ticketing system to handle support for customers/clients:
 - Ability to add your company logo to the ticketing system.
 - Built using Laravel 10.
 - Designed using Tailwind.
+- Uses Font Awesome Free
 
 # Functionality 
 
