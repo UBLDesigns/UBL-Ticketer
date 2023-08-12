@@ -5,7 +5,7 @@
 </p>
 
 
-# UBL Ticker Features
+# UBL Ticketer Features
 
 Ticketing system to handle support for customers/clients:
 
