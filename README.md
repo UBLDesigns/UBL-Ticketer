@@ -13,6 +13,7 @@ Ticketing system to handle support for customers/clients:
 - Ability to add hours worked on each ticket.
 - Ability to assign an hourly rate with a default rate or by the individual client.
 - Add tasks to each ticket that the client/customer and admin can keep track of.
+- Ability to upload images in not only the tickets but each and every reply.
 - Ability to turn off hourly rate and tasks for tickets.
 - Ability to add your company logo to the ticketing system.
 - Built using Laravel 10.
