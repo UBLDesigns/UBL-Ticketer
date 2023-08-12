@@ -5,7 +5,7 @@
 </p>
 
 
-## UBL Ticker Features
+# UBL Ticker Features
 
 Ticketing system to handle support for customers/clients:
 
@@ -19,18 +19,30 @@ Ticketing system to handle support for customers/clients:
 - Built using Laravel 10.
 - Designed using Tailwind.
 
-## Functionality 
+# Functionality 
 
 Only admins can see all the settings and every ticket, customers can only see their tickets raised. 
 Customers are the only ones who can create tickets.
 
 
-## Screenshots
+# Screenshots
 
-Add screenshots here
+### Login Screen
+<img src="https://www.derby-web-design-agency.co.uk/git/login.jpg" alt="Login Screen">
 
+### Customer Dashboard
+<img src="https://www.derby-web-design-agency.co.uk/git/dashboard.jpg" alt="Dashboard">
 
-## Installation guide
+### Creating A Ticket With An Error Report
+<img src="https://www.derby-web-design-agency.co.uk/git/ticket-submit.jpg" alt="Dashboard">
+
+### Customer Ticket View - With Reply & Images - With Tasks Enabled
+<img src="https://www.derby-web-design-agency.co.uk/git/client-ticket.jpg" alt="Dashboard">
+
+### Admin Ticket View - With Reply - With Hourly Rate Enabled - With Tasks Enabled
+<img src="https://www.derby-web-design-agency.co.uk/git/admin-ticket.jpg" alt="Dashboard">
+
+# Installation guide
 
 - Download package
 - Change the .env.example to .env and enter your details within the file.
@@ -43,7 +55,7 @@ Add screenshots here
 - Installation complete
 
 
-### Initial Login Information
+# Initial Login Information
 
 - Admin login: admin@admin.com - Password: password
 - Customer login: customer@customer.com - Password: password
