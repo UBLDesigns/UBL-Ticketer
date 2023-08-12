@@ -10,7 +10,7 @@
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900">
                     
-                    <h1 class="text-6xl font-extrabold">{{ config('app.name', 'UBL Designs') }}
+                    <h1 class="text-6xl font-extrabold">{{ str_replace('-', ' ', config('app.name', 'UBL Designs')) }}
                         <br>
                         <small class="ml-2 text-lg font-semibold text-gray-500 dark:text-gray-400">
                             Welcome <span class="bg-gray-800 text-indigo-400 px-2 py-1 rounded-md">{{Auth::user()->name}}</span> to your ticketing dashboard

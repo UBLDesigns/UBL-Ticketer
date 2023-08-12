@@ -3,7 +3,7 @@
       <div class="p-6 text-gray-900 flex">
           <div class="w-full">
             <div class="sm:flex sm:items-center sm:justify-between">
-                <a href="{{ route('dashboard') }}" alt="{{ config('app.name', 'UBL Designs') }}" class="h-8 mr-3">
+                <a href="{{ route('dashboard') }}" alt="{{ str_replace('-', ' ', config('app.name', 'UBL Designs')) }}" class="h-8 mr-3">
                     <x-application-logo class="block h-9 w-auto fill-current text-gray-800" />
                 </a>
                 <ul class="flex flex-wrap mt-3 items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0">
