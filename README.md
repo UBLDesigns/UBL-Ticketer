@@ -37,6 +37,7 @@ Add screenshots here
 - Open the terminal and type: composer install
 - Then type: composer update
 - Then type: php artisan migrate --seed
+- Now generate a new Laravel key by typing: php artisan key:generate
 - If you have npm installed already you will need to type: npm i
 - Installation complete
 
