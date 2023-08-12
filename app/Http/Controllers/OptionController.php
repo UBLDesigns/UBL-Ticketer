@@ -99,7 +99,8 @@ class OptionController extends Controller
     public function store(Request $request)
     {
         $authenticate = $request->validate([
-            'name' => 'required|string'
+            'name' => 'required|string',
+            'status' => 'required|boolean'
         ]);
 
         $option = Option::create($authenticate);
