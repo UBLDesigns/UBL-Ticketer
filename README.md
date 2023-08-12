@@ -16,6 +16,7 @@ Ticketing system to handle support for customers/clients:
 - Ability to turn off hourly rate and tasks for tickets.
 - Ability to add your company logo to the ticketing system.
 - Built using Laravel 10.
+- Designed using Tailwind.
 
 ## Functionality 
 
