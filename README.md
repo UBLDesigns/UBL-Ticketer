@@ -17,7 +17,7 @@ Ticketing system to handle support for customers/clients:
 - Ability to add your company logo to the ticketing system.
 - Built using Laravel 10.
 
-Functionality: Only admins can see all the settings and every ticket, customers can only see their tickets raised.
+Functionality: Only admins can see all the settings and every ticket, customers can only see their tickets raised. Customers are the only ones who can create tickets.
 
 
 ## Screenshots
